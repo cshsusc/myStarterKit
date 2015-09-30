@@ -1,0 +1,15 @@
+•Open project folder in your IDE
+•Edit your package.json (name and desc)
+ file with pertinent info
+•Console cd into your project directory
+ and run 'npm install' or 'npm update' 
+if install doesn't work (installs dev 
+dependencies, takes a bit).
+•Decide if you want css output
+compressed or not (gulpfile.js sass 
+task)
+•While still in your project directory 
+run 'gulp'.
+•Open index.html and update title
+•Open sass/js files within _src
+•Create site favicon using .psd
